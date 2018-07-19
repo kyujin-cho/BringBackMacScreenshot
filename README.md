@@ -1,6 +1,6 @@
 # Bring back macOS Screenshot Shortcut to Bootcamp
 
-![Screenshot](images/Screen Shot 2018-07-20 02.15.08 AM.png)
+![Screenshot](https://raw.githubusercontent.com/thy2134/BringBackMacScreenshot/master/images/Screen%20Shot%202018-07-20%2002.15.08%20AM.png)
 
 This program binds macOS-like key combination to PrtScn key, which makes Windows users which are running Windows via macOS' BootCamp system easier to capture the screen.   
 
