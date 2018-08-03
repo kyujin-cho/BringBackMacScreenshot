@@ -1,6 +1,6 @@
 # Bring back macOS Screenshot Shortcut to Bootcamp
 
-![Screenshot](https://raw.githubusercontent.com/thy2134/BringBackMacScreenshot/master/images/Screen%20Shot%202018-07-20%2002.15.08%20AM.png)
+![Screenshot](https://raw.githubusercontent.com/thy2134/BringBackMacScreenshot/master/images/Screen%20Shot%202018-08-03%2005.29.35%20PM.png)
 
 macOS의 스크린샷 단축키(Cmd + Shift + 3/4)와 비슷한 단축키를 프린트스크린 키에 바인딩해주는 프로그램입니다. 프린트스크린 키가 없는 맥북의 부트캠프 유저들을 위해 제작했습니다.
 
